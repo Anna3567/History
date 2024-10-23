@@ -1,0 +1,51 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: deeppink;
+}
+.img2{
+    width: 1000px;
+    height: 600px;
+}
+.button{
+    width: 100%;
+    height: 300px;
+    background-color: mediumspringgreen;
+    font-size: 100px;
+}
+.call{
+    transform: translateY(-500px);
+    width: 800px;
+    height: 500px;
+}
+body{
+    background-color: rgb(137, 27, 201);
+}
+.footer{
+    text-align: center;
+    transform: translateY(95px);
+    color: black;
+}
+
+.redbutton{
+    background-color: red;
+    height: 100px;
+    width: 300px;
+    transform: translate(260px, -70px);
+    font-size: 40px;
+}
+.dialog{
+    font-size: 100px;
+    text-align: center;
+}
+div{
+background-color: yellow;
+width: 100%;
+height: 100px;
+}
