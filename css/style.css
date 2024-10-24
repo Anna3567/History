@@ -11,7 +11,7 @@ p {
 }
 .img2{
     width: 1000px;
-    height: 600px;
+    height: 400px;
 }
 .button{
     width: 100%;
@@ -25,12 +25,13 @@ p {
     height: 500px;
 }
 body{
-    background-color: rgb(137, 27, 201);
+    background-color: rgba(201, 126, 27, 0.137);
 }
 .footer{
     text-align: center;
     transform: translateY(95px);
     color: black;
+    transform: translateY(180px);
 }
 
 .redbutton{
@@ -43,9 +44,13 @@ body{
 .dialog{
     font-size: 100px;
     text-align: center;
+    
 }
 div{
 background-color: yellow;
 width: 100%;
-height: 100px;
+height: 200px;
+}
+.title{
+    transform: translateY(50px);
 }
